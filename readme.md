@@ -3,7 +3,7 @@
 - [Guilde Architecture Technique](#guilde-architecture-technique)
   * [Motivation](#motivation)
   * [Roles et responsabilités de la guilde](#roles-et-responsabilités-de-la-guilde)
-    + [Aligner l'architecture des systèmes sur les objectifs de l'entreprise](#aligner-l-architecture-des-systèmes-sur-les-objectifs-de-l-entreprise)
+    + [Aligner l'architecture des systèmes sur les objectifs de l'entreprise](#aligner-larchitecture-des-systèmes-sur-les-objectifs-de-lentreprise)
     + [Trouver et recommander des solutions aux problèmes partagés](#trouver-et-recommander-des-solutions-aux-problèmes-partagés)
     + [Partager les architectures et les connaissances techniques](#partager-les-architectures-et-les-connaissances-techniques)
   * [Comment la guilde travail](#comment-la-guilde-travail)
